@@ -10,7 +10,7 @@ y un teléfono que hace de control remoto… o se las arregla solo, sin PC.
 <!-- OSP:INSIGNIAS:INICIO — generado por scripts/pagina-publica.mjs en cada release: NO editar a mano -->
 
 <a href="#descargar"><img alt="escritorio 0.4.10" src="https://img.shields.io/badge/escritorio-0.4.10-ff8c2b?style=for-the-badge&labelColor=0a0b0d"></a>
-<a href="#descargar"><img alt="android 0.8.3" src="https://img.shields.io/badge/android-0.8.3-ffd24a?style=for-the-badge&labelColor=0a0b0d"></a>
+<a href="#descargar"><img alt="android 0.9.0" src="https://img.shields.io/badge/android-0.9.0-ffd24a?style=for-the-badge&labelColor=0a0b0d"></a>
 
 <!-- OSP:INSIGNIAS:FIN -->
 <img alt="Windows · Linux · Android" src="https://img.shields.io/badge/Windows%20·%20Linux%20·%20Android-2e343d?style=for-the-badge&labelColor=0a0b0d">
@@ -32,7 +32,7 @@ y un teléfono que hace de control remoto… o se las arregla solo, sin PC.
 
 <!-- OSP:DESCARGAS:INICIO — generado por scripts/pagina-publica.mjs en cada release: NO editar a mano -->
 
-**Escritorio 0.4.10** · publicado el 8 de octubre de 2026  ·  **Android 0.8.3** · publicado el 5 de octubre de 2026
+**Escritorio 0.4.10** · publicado el 8 de octubre de 2026  ·  **Android 0.9.0** · publicado el 13 de octubre de 2026
 
 | Para | Bajá | Pesa | Cómo |
 |---|---|---|---|
@@ -40,7 +40,7 @@ y un teléfono que hace de control remoto… o se las arregla solo, sin PC.
 | 🐧 **Linux**, cualquier distro | [⬇ **.AppImage**](https://github.com/AlvarezLaion/osp-lite-releases/releases/download/escritorio-v0.4.10/OldSchool-Player-Lite-0.4.10.AppImage "OldSchool-Player-Lite-0.4.10.AppImage") | 123 MB | `chmod +x` y abrir, sin instalar nada |
 | 🐧 **Debian · Ubuntu · Mint** | [⬇ **.deb**](https://github.com/AlvarezLaion/osp-lite-releases/releases/download/escritorio-v0.4.10/OldSchool-Player-Lite-0.4.10.deb "OldSchool-Player-Lite-0.4.10.deb") | 82 MB | doble click, o `sudo apt install ./archivo.deb` |
 | 🐧 **Arch · Manjaro · EndeavourOS** | [⬇ **.pacman**](https://github.com/AlvarezLaion/osp-lite-releases/releases/download/escritorio-v0.4.10/OldSchool-Player-Lite-0.4.10.pacman "OldSchool-Player-Lite-0.4.10.pacman") | 83 MB | `sudo pacman -U archivo.pacman` |
-| 🤖 **Android** 8 o más nuevo | [⬇ **osp-lite.apk**](https://github.com/AlvarezLaion/osp-lite-releases/releases/latest/download/osp-lite.apk "osp-lite.apk 0.8.3") | 29 MB | teléfonos de 64 bits (casi todos los de los últimos años) |
+| 🤖 **Android** 8 o más nuevo | [⬇ **osp-lite.apk**](https://github.com/AlvarezLaion/osp-lite-releases/releases/latest/download/osp-lite.apk "osp-lite.apk 0.9.0") | 29 MB | teléfonos de 64 bits (casi todos los de los últimos años) |
 
 <!-- OSP:DESCARGAS:FIN -->
 
